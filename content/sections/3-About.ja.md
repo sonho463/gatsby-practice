@@ -1,6 +1,6 @@
 ---
-anchor: "沿革"
-header: "沿革"
+anchor: "略歴"
+header: "略歴"
 subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
 timeline: [
   {

@@ -28,13 +28,13 @@ const TeamMember = ({
       />
       <h4>{header}</h4>
       <p className="text-muted">{subheader}</p>
-      <div>
+      {/* <div>
         {twitterPart}
         {facebookPart}
         {linkedinPart}
         {githubPart}
         {mediumPart}
-      </div>
+      </div> */}
     </div>
   );
 };

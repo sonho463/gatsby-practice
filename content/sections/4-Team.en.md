@@ -1,6 +1,6 @@
 ---
-anchor: "Team"
-header: "Our Amazing Team"
+anchor: "Skills"
+header: "My Skills"
 subheader: "Lorem ipsum dolor sit amet consectetur."
 content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
 teamMember: [
@@ -25,6 +25,16 @@ teamMember: [
     }
   },
   {
+    imageFileName: "team/3.jpg",
+    header: "Diana Pertersen",
+    subheader: "Lead Developer",
+    social: {
+      twitter: "#",
+      facebook: "#",
+      medium: "#"
+    }
+	},
+	{
     imageFileName: "team/3.jpg",
     header: "Diana Pertersen",
     subheader: "Lead Developer",

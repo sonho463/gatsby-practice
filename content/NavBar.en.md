@@ -1,4 +1,4 @@
 ---
-brand: "Start Bootstrap"
+brand: "Over40WebClub"
 menuText: "Menu "
 ---
