@@ -1,4 +1,4 @@
 ---
-brand: "Over40WebClub"
+brand: "ほるもんT"
 menuText: "メニュー "
 ---

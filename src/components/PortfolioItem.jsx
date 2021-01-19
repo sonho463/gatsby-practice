@@ -39,7 +39,7 @@ const PortfolioItem = ({
           <Image
             className="img-fluid"
             fileName={imageFileName}
-            alt={imageAlt || header || subheader}
+						alt={imageAlt || header || subheader}
           />
           <div className="portfolio-hover">
             <div className="portfolio-hover-content">
