@@ -1,4 +1,5 @@
 import React from "react";
+import Markdown from "markdown-to-jsx";
 import PropTypes from "prop-types";
 
 import { Col } from "react-bootstrap";
@@ -49,7 +50,7 @@ const PortfolioItem = ({
         </a>
         <div className="portfolio-caption">
           <h4>{header}</h4>
-          {subheader ? <p className="text-muted">{subheader}</p> : null}
+          {subheader ? <p className="text-muted"><Markdown>{subheader}</Markdown></p> : null}
         </div>
       </Col>
       <PortfolioDetailDialog

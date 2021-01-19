@@ -7,7 +7,7 @@ portfolios: [
     imageFileName: "portfolio/01-thumbnail.jpg",
     imageFileNameDetail: "portfolio/01-full.jpg",
     header: "TECHMEETS",
-    subheader: "サイト模写",
+    subheader: "[サイトへ](https://copy-techmeets.horumont.info/)",
     content: "TECHMEETSさんが提供してくれたデザインカンプをもとにコーディング。ハンバーガーメニュー実装、レスポンシブにも対応しました。",
     extraInfo: ["日付： November 2020", "クライエント: TECHMEETS", "カテゴリ: サイト模写"]
   },
