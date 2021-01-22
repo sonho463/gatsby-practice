@@ -41,7 +41,9 @@ const PortfolioItem = ({
           <Image
             className="img-fluid"
             fileName={imageFileName}
-						alt={imageAlt || header || subheader}}
+						alt={imageAlt || header || subheader}
+						style={{height: 200}}
+						// imgStyle={{objectPosition: right}}
           />
           <div className="portfolio-hover">
             <div className="portfolio-hover-content">
