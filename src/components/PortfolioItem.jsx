@@ -43,7 +43,7 @@ const PortfolioItem = ({
             fileName={imageFileName}
 						alt={imageAlt || header || subheader}
 						style={{height: 200}}
-						// imgStyle={{objectPosition: right}}
+						imgStyle={{objectPosition: "top"}}
           />
           <div className="portfolio-hover">
             <div className="portfolio-hover-content">
