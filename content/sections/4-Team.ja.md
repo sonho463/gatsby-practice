@@ -9,9 +9,9 @@ teamMember: [
     header: "Kay Garland",
     subheader: "Lead Designer",
     social: {
-      twitter: "#",
-      facebook: "#",
-      linkedin: "#"
+      # twitter: "#",
+      # facebook: "#",
+      # linkedin: "#"
     }
   },
   {
@@ -19,9 +19,9 @@ teamMember: [
     header: "Larry Parker",
     subheader: "Lead Marketer",
     social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
+      # twitter: "#",
+      # facebook: "#",
+      # medium: "#"
     }
   },
   {
@@ -29,9 +29,9 @@ teamMember: [
     header: "Diana Pertersen",
     subheader: "Lead Developer",
     social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
+      # twitter: "#",
+      # facebook: "#",
+      # medium: "#"
     }
   },
   {
@@ -39,9 +39,9 @@ teamMember: [
     header: "Diana Pertersen",
     subheader: "Lead Developer",
     social: {
-      twitter: "#",
-      facebook: "#",
-      medium: "#"
+      # twitter: "#",
+      # facebook: "#",
+      # medium: "#"
     }
   },
 ]

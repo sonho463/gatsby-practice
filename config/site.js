@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Gatsyby Startbootstrap Agency",
+  title: "HORUMONT'S HOMEPAGE",
   keywords: [
     "gatsby",
     "gatsbyjs",
@@ -10,8 +10,8 @@ module.exports = {
     "bootstrap",
     "startbootstrap-agency",
   ],
-  description: "gatsby version of startbootstrap-agency with i18n support.",
-  author: "thundermiracle",
+  description: "ほるもんTのポートフォリオサイトです。GatsbyJSのスターター、gatsby-startbootstrap-agencyを使用して構築しました。",
+  author: "SonHirokiHongsu",
   trackingId: "UA-119418003-5",
   defaultLang: "ja",
   langTextMap: {

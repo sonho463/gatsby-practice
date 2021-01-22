@@ -50,6 +50,30 @@ portfolios: [
     subheader: "フォトショップ",
     content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
     extraInfo: ["日付： January 2017", "クライエント: Window", "カテゴリ: Photography"]
-  }
+	},
+  {
+    imageFileName: "portfolio/06-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/06-full.jpg",
+    header: "Window",
+    subheader: "フォトショップ",
+    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
+    extraInfo: ["日付： January 2017", "クライエント: Window", "カテゴリ: Photography"]
+	},
+  {
+    imageFileName: "portfolio/06-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/06-full.jpg",
+    header: "Window",
+    subheader: "フォトショップ",
+    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
+    extraInfo: ["日付： January 2017", "クライエント: Window", "カテゴリ: Photography"]
+	},
+  {
+    imageFileName: "portfolio/06-thumbnail.jpg",
+    imageFileNameDetail: "portfolio/06-full.jpg",
+    header: "Window",
+    subheader: "フォトショップ",
+    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
+    extraInfo: ["日付： January 2017", "クライエント: Window", "カテゴリ: Photography"]
+  },
 ]
 ---
