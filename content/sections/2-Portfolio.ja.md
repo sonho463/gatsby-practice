@@ -27,6 +27,14 @@ portfolios: [
     content: "前回作ったサイトから少し発展。第2回のGatsby勉強会としてAirTableと連携したスターターでのサイト構築をテーマに開催されました。内実はぼくがやりたいことをOver40WebClubのみなさまの助けで実現した感じです。Gatsbyの可能性を少しずつ感じ始めた頃です。",
     extraInfo: ["日付： Oct 2020", "クライエント: myself", "カテゴリ: Gatsbyサイト"]
   },
-  
+  {
+    imageFileName: "portfolio/04-bochi-th.jpg",
+    imageFileNameDetail: "portfolio/04-bochi.jpg",
+    header: "[ぼちぼちブログ](https://horumont.info)",
+    subheader: "WordPressブログ",
+    content: "WordPressで構築したブログ。無料テーマCocoonを使用しています。SEOの練習や自分の情報発信に使っています。",
+    extraInfo: ["日付： Oct 2020", "クライエント: myself", "カテゴリ: Gatsbyサイト"]
+  },
+
 ]
 ---

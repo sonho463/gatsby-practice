@@ -1,13 +1,13 @@
 ---
 anchor: "スキル"
 header: "スキル"
-subheader: "あなたは偶然断然その持[こちら](http://horumont.info/)通りについて事のためにまかり出ですた。"
+subheader: "ほるもんTの持っているスキルセットです。"
 content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
 teamMember: [
   {
     imageFileName: "team/1.jpg",
-    header: "Kay Garland",
-    subheader: "Lead Designer",
+    header: "HTML5",
+    subheader: "",
     social: {
       # twitter: "#",
       # facebook: "#",
@@ -16,8 +16,8 @@ teamMember: [
   },
   {
     imageFileName: "team/2.jpg",
-    header: "Larry Parker",
-    subheader: "Lead Marketer",
+    header: "CSS 3",
+    subheader: "",
     social: {
       # twitter: "#",
       # facebook: "#",
@@ -26,8 +26,8 @@ teamMember: [
   },
   {
     imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
-    subheader: "Lead Developer",
+    header: "GatsbyJS",
+    subheader: "",
     social: {
       # twitter: "#",
       # facebook: "#",
@@ -35,14 +35,15 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
-    subheader: "Lead Developer",
+    imageFileName: "team/4.png",
+    header: "WordPress",
+    subheader: "",
     social: {
       # twitter: "#",
       # facebook: "#",
       # medium: "#"
     }
   },
+
 ]
 ---

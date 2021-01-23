@@ -3,6 +3,7 @@ import PropTypes from "prop-types";
 
 import { Container, Row, Col } from "react-bootstrap";
 import * as SocialIcons from "components/SocialIcons";
+import blogIcon from 'components/SystemIcons'
 
 const Footer = ({ frontmatter }) => {
   if (!frontmatter) {
@@ -31,6 +32,7 @@ const Footer = ({ frontmatter }) => {
             {linkedin ? <SocialIcons.Linkedin userName={linkedin} /> : null}
             {github ? <SocialIcons.Github userName={github} /> : null}
             {medium ? <SocialIcons.Medium userName={medium} /> : null}
+
           </Col>
           <Col lg={4} className="text-lg-right">
             <a className="mr-3" href={privacyHref}>

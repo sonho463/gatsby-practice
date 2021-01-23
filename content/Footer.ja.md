@@ -1,9 +1,11 @@
 ---
 copyright: "Copyright © Start Bootstrap 2020"
 social: {
-  twitter: "#",
-  facebook: "#",
-  medium: "#"
+  twitter: "horumont",
+  facebook: "horumont",
+	github: "sonho463",
+	blog: "blog",
+
 }
 privacyText: "プライバシー"
 privacyHref: "#!"
