@@ -7,7 +7,6 @@ import {
   faBars,
   faTimes,
 	faGlobe,
-	faBlog,
 } from "@fortawesome/free-solid-svg-icons";
 import {
   faTwitter,

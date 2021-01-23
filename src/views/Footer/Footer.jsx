@@ -3,7 +3,6 @@ import PropTypes from "prop-types";
 
 import { Container, Row, Col } from "react-bootstrap";
 import * as SocialIcons from "components/SocialIcons";
-import blogIcon from 'components/SystemIcons'
 
 const Footer = ({ frontmatter }) => {
   if (!frontmatter) {
