@@ -1,55 +1,31 @@
 ---
 anchor: "Portfolio"
 header: "Portfolio"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+subheader: "It is a track record so far. I want to finish as many site replicas as possible by the time I become freelance."
 portfolios: [
   {
-    imageFileName: "portfolio/01-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/01-full.jpg",
-    header: "Threads",
-    subheader: "Illustration",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Threads", "Category: Illustration"]
+    imageFileName: "portfolio/01-techmeets.jpg",
+    imageFileNameDetail: "portfolio/01-techmeets-th.jpg",
+    header: "[TECHMEETS](https://copy-techmeets.horumont.info/)",
+    subheader: "Site replication",
+    content: "Coding based on the design comp provided by TECHMEETS. It also supports hamburger menu implementation and responsiveness.",
+    extraInfo: ["Date： Nov 2020", "Client: TECHMEETS", "Category: Site replication"]
   },
   {
-    imageFileName: "portfolio/02-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/02-full.jpg",
-    header: "Explorer",
-    subheader: "Graphic Design",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Explorer", "Category: Graphic Design"]
+    imageFileName: "portfolio/02-takamina-link-th.jpg",
+    imageFileNameDetail: "portfolio/02-takamina-link.jpg",
+    header: "[Links that can be used on your computer-studying](https://takamina-link.netlify.app/)",
+    subheader: "Site by GatsbyJS",
+    content: "A site created from the output of participating in the Gatsby study session held at Over40WebClub. Since it was a big deal, I wanted to make something that could be used at school. For some reason, the layout collapses 😅",
+    extraInfo: ["Date： Oct 2020", "Client: myself", "Category: Site by GatsbyJS"]
   },
   {
-    imageFileName: "portfolio/03-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/03-full.jpg",
-    header: "Finish",
-    subheader: "Identity",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Finish", "Category: Identity"]
+    imageFileName: "portfolio/03-takamina-link3-th.jpg",
+    imageFileNameDetail: "portfolio/03-takamina-link3.jpg",
+    header: "[Link for PC study](https://takamina-link3.netlify.app/)",
+    subheader: "Site by GatsbyJS",
+    content: "A little development from the site I made last time. The second Gatsby study session was held with the theme of building a site with a starter in collaboration with AirTable. The truth is, I feel that I have achieved what I want to do with the help of the Over40 Web Club. It was around the time when I began to feel the potential of Gatsby little by little.",
+    extraInfo: ["Date： Oct 2020", "Client: myself", "Category: Site by GatsbyJS"]
   },
-  {
-    imageFileName: "portfolio/04-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/04-full.jpg",
-    header: "Lines",
-    subheader: "Branding",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Lines", "Category: Branding"]
-  },
-  {
-    imageFileName: "portfolio/05-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/05-full.jpg",
-    header: "Southwest",
-    subheader: "Website Design",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Southwest", "Category: Website Design"]
-  },
-  {
-    imageFileName: "portfolio/06-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/06-full.jpg",
-    header: "Window",
-    subheader: "Photography",
-    content: "Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!",
-    extraInfo: ["Date: January 2017", "Client: Window", "Category: Photography"]
-  }
 ]
 ---

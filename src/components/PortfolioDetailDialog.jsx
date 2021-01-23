@@ -28,13 +28,13 @@ const PortfolioDetailDialog = ({
       </Modal.Header>
       <Modal.Body className="mx-auto">
         <p className="item-intro text-muted">{subheader}</p>
+				<p>{content}</p>
+				{extraInfo}
         <Image
           className="img-fluid d-block"
           fileName={imageFileName}
           alt={imageAlt || header || subheader}
         />
-        <p>{content}</p>
-        {extraInfo}
       </Modal.Body>
       <Modal.Footer>
         <div className="mx-auto">

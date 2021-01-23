@@ -8,7 +8,6 @@ import Icon from "components/Icon";
 import PortfolioDetailDialog from "components/PortfolioDetailDialog";
 
 import "./PortfolioItem.scss";
-import { converge } from "ramda";
 
 const PortfolioItem = ({
   imageFileName,
@@ -52,8 +51,8 @@ const PortfolioItem = ({
           </div>
         </a>
         <div className="portfolio-caption">
-          <h4>{header}</h4>
-          {subheader ? <p className="text-muted"><Markdown>{subheader}</Markdown></p> : null}
+          <h4><Markdown>{header}</Markdown></h4>
+          {subheader ? <p className="text-muted">{subheader}</p> : null}
         </div>
       </Col>
       <PortfolioDetailDialog
@@ -61,7 +60,7 @@ const PortfolioItem = ({
         onHide={handleHideDetail}
         imageFileName={imageFileNameDetail || imageFileName}
         imageAlt={imageAltDetail || imageAlt}
-        header={header}
+        header={<Markdown>{header}</Markdown>}
         subheader={subheader}
         content={content}
         extraInfo={extraInfo}
