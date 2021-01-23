@@ -23,7 +23,17 @@ teamMember: [
       # facebook: "#",
       # medium: "#"
     }
-  },
+	},
+		{
+    imageFileName: "team/5.png",
+    header: "JavaScript",
+    subheader: "",
+    social: {
+      # twitter: "#",
+      # facebook: "#",
+      # medium: "#"
+    }
+	},
   {
     imageFileName: "team/3.jpg",
     header: "GatsbyJS",
@@ -34,6 +44,16 @@ teamMember: [
       # medium: "#"
     }
   },
+	{
+    imageFileName: "team/6.png",
+    header: "ReactJS",
+    subheader: "",
+    social: {
+      # twitter: "#",
+      # facebook: "#",
+      # medium: "#"
+    }
+	},
   {
     imageFileName: "team/4.png",
     header: "WordPress",
@@ -43,7 +63,6 @@ teamMember: [
       # facebook: "#",
       # medium: "#"
     }
-  },
-
+	},
 ]
 ---
