@@ -10,7 +10,8 @@ module.exports = {
     "bootstrap",
     "startbootstrap-agency",
   ],
-  description: "ほるもんTのポートフォリオサイトです。GatsbyJSのスターター、gatsby-startbootstrap-agencyを使用して構築しました。",
+  description:
+    "そんほんすのポートフォリオサイトです。GatsbyJSのスターター、gatsby-startbootstrap-agencyを使用して構築しました。",
   author: "SonHirokiHongsu",
   trackingId: "UA-119418003-5",
   defaultLang: "ja",

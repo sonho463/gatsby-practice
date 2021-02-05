@@ -1,7 +1,7 @@
 ---
 anchor: "スキル"
 header: "スキル"
-subheader: "ほるもんTの持っているスキルセットです。"
+subheader: "そんほんすの持っているスキルセットです。"
 content: "現在も新しいスキルの習得に向けて学習中です。"
 teamMember: [
   {

@@ -1,4 +1,4 @@
 ---
-brand: "ほるもんT"
+brand: "そんほんす"
 menuText: "メニュー "
 ---
