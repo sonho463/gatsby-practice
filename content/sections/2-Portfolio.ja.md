@@ -35,6 +35,13 @@ portfolios: [
     content: "WordPressで構築したブログ。無料テーマCocoonを使用しています。SEOの練習や自分の情報発信に使っています。",
     extraInfo: ["日付： Oct 2020", "クライエント: myself", "カテゴリ: Gatsbyサイト"]
   },
-
+  {
+    imageFileName: "portfolio/05-ytu-th.jpg",
+    imageFileNameDetail: "portfolio/05-ytu.jpg",
+    header: "八尾市教職員組合LP",
+    subheader: "デザイン",
+    content: "組合の新規採用者向けLPのデザインです。まだ途中ですが、スマホのメンバーに見てもらうためにここに掲載しています。",
+    extraInfo: ["日付： Feb 2021", "クライエント: 八尾市教職員組合", "カテゴリ: デザイン"]
+  },
 ]
 ---
