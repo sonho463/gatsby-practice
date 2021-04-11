@@ -38,10 +38,10 @@ portfolios: [
   {
     imageFileName: "portfolio/05-ytu-th.jpg",
     imageFileNameDetail: "portfolio/05-ytu.jpg",
-    header: "八尾市教職員組合LP",
-    subheader: "デザイン",
-    content: "組合の新規採用者向けLPのデザインです。まだ途中ですが、スマホのメンバーに見てもらうためにここに掲載しています。",
-    extraInfo: ["日付： Feb 2021", "クライエント: 八尾市教職員組合", "カテゴリ: デザイン"]
+    header: "[八尾市教職員組合LP](https://ytu-rookies-sample.horumont.info/)",
+    subheader: "静的サイト",
+    content: "ベーシック認証（id:guest,pw:guest)をかけています。組合の新規採用者向けLPです。デザインからコーディングまで担当しました。フライヤーのQRコードからのアクセスを見込んで作成。モバイルファーストでコーディングしていきました。",
+    extraInfo: ["日付： Feb 2021", "クライエント: 八尾市教職員組合", "カテゴリ: HTML/CSS/JavaScript"]
   },
 ]
 ---
