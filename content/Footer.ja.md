@@ -6,8 +6,8 @@ social: {
 	github: "sonho463",
 	blog: "blog",
 }
-privacyText: "プライバシー"
+privacyText: ""
 privacyHref: "#!"
-termsText: "利用規約"
+termsText: ""
 termsHref: "#!"
 ---

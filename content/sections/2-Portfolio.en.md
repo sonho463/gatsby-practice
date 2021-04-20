@@ -28,12 +28,20 @@ portfolios: [
     extraInfo: ["Date： Oct 2020", "Client: myself", "Category: Site by GatsbyJS"]
   },
 	  {
+    imageFileName: "portfolio/04-bochi-th.jpg",
+    imageFileNameDetail: "portfolio/04-bochi.jpg",
+    header: "[ぼちぼちブログ](https://horumont.info)",
+    subheader: "Blog built with WordPress",
+    content: "A blog built with WordPress. I am using the free theme Cocoon. I use it to practice SEO and disseminate my information.",
+    extraInfo: ["Date： Oct 2020", "Client: myself", "Category: Site by GatsbyJS"]
+  },
+  {
     imageFileName: "portfolio/05-ytu-th.jpg",
     imageFileNameDetail: "portfolio/05-ytu.jpg",
-    header: "LP Yao Teacher's Union",
-    subheader: "design",
-    content: "This is the design of YTU-LP for new hires.This is in progress. but I want to show the member of YTU who have SP only. So, I posted it.",
-    extraInfo: ["Date： Feb 2021", "Client: Yao Teacher's Union", "Category: design"]
+    header: "[LP of Yao Teacher's Union](https://ytu-rookies-sample.horumont.info/)",
+    subheader: "Static Site",
+    content: "Basic authentication (id: guest, pw: guest) is applied. LP of the union for new hires . I was in charge of everything from design to coding. Created in anticipation of access from the QR code of the flyer. I coded with mobile first.",
+    extraInfo: ["Date： Feb 2021", "Client: 八尾市教職員組合", "Category: HTML/CSS/JavaScript"]
   },
 ]
 ---

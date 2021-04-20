@@ -1,31 +1,31 @@
 ---
 anchor: "About"
 header: "About"
-subheader: "Lorem ipsum dolor sit amet consectetur."
+subheader: "A background related to computers."
 timeline: [
   {
     imageFileName: "about/1.jpg",
-    header: "2009-2011",
-    subheader: "Our Humble Beginnings",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "1982 6th grade elementary school",
+    subheader: "First Computer MSX",
+    content: "Even though I begged my parents for the NES, which was very popular at the time, I asked my father to buy MSX, which was booming at the time, because he said, You can't play games. At first, it was all about games, but gradually I got tired of buying books and enjoyed copying BASIC."
   },
   {
     imageFileName: "about/2.jpg",
-    header: "March 2011",
-    subheader: "An Agency is Born",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "About 2000",
+    subheader: "Teaching a computer in elementary school ",
+    content: "Assigned to an elementary school as a lecturer, specializing in science and computers. As a hobby, I used 9 computers in the computer room, which were stand-alone at that time, connected by LAN.",
   },
   {
     imageFileName: "about/3.jpg",
-    header: "December 2012",
-    subheader: "Transition to Full Service",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "2018~2020",
+    subheader: "Challenging programming",
+    content: "After switching to Mac, I tried to study swift with books. However, it was frustrated on the way. After that, Mac was used exclusively for work and watching anime."
   },
   {
     imageFileName: "about/4.jpg",
-    header: "July 2014",
-    subheader: "Phase Two Expansion",
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+    header: "April 2020 ~",
+    subheader: "Seriously programming, meet Over40WebClub",
+    content: "Knowing the existence of 'dot install' and Progate, I bought a subscription to do it seriously. Every Saturday and Sunday, I start to go to my PC. At the same time, I decided to collect information on Twitter, where only my account was alive, met Over40WebClub, and proceed with learning aiming for freelance."
   },
   {
     imageContent: "Be Part\r\nOf Our\r\nStory!"

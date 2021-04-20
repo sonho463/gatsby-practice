@@ -1,7 +1,7 @@
 ---
 anchor: "略歴"
 header: "略歴"
-subheader: "コンピュータに関わるもの。案件を取る段になったらもう少し訂正をしようと思っています。"
+subheader: "コンピュータに関わる経歴です。"
 timeline: [
   {
     imageFileName: "about/1.jpg",
@@ -13,7 +13,7 @@ timeline: [
     imageFileName: "about/2.jpg",
     header: "2000年ごろ",
     subheader: "小学校でパソコンを教える",
-    content: "小学校に講師として配属、理科専科やコンピュータを専門に教えたりする。趣味が講じて、当時スタンドアロンで9台あったパソコン室のコンピュータをLANでつないで活用。"
+    content: "小学校に講師として配属、理科専科やコンピュータを専門に教えたりする。趣味が講じて、当時スタンドアロンで9台あったパソコン室のコンピュータをLANでつないで活用。",
   },
   {
     imageFileName: "about/3.jpg",
@@ -24,7 +24,7 @@ timeline: [
   {
     imageFileName: "about/4.jpg",
     header: "2020年4月~",
-    subheader: "本気出してみると、Over40WebClubと出会う",
+    subheader: "本気出してプログラミング、Over40WebClubと出会う",
     content: "ドットインストールやProgateの存在を知り、本気でやろうとサブスクを購入。土日のたびにPCにむかいはじめる。同時にアカウントだけ生きていたTwitterでもぼちぼちと情報収集、Over40WebClubと出会い、フリーランスをめざして学習をすすめることを決意。"
   },
   {
