@@ -1,7 +1,7 @@
 ---
 header: "そんほんすのホームページ"
-subheader: "お会いできて光栄です！"
+subheader: "お会いできてうれしいです！"
 imageFileName: "header-bg.jpg"
 jumpToAnchor: "サービス"
-jumpToAnchorText: "詳しく"
+jumpToAnchorText: "もっと詳しく"
 ---
