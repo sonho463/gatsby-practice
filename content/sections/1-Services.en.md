@@ -11,14 +11,14 @@ services: [
   },
   {
     iconName: "MobileAltIcon",
-    header: "Responsive design",
+    header: "WEB attracting customers consulting / acting",
     content: "
-If you look at an existing website on your smartphone, it may not be displayed as you expected. Rewrite the code so that the layout does not collapse even if you look at it on a smartphone."
+When people want to drink a little or are looking for a delicious cake, many people use their smartphones to quickly search. It is very important to attract customers on the web now. Contribute to your sales."
   },
   {
     iconName: "SearchPlusIcon",
-    header: "SEO",
-    content: "Build a site that is SEO conscious. With a static site generator called Gatsby (a tool that quickly creates a site), you can deliver a site with SEO measures in a relatively short delivery time."
+    header: "Helping the production company",
+    content: "Contributes to work efficiency and work load reduction. We will also undertake minor corrections that are difficult to outsource. Requests can be made for a limited time, such as during the busy season. Please contact us once!"
 	},
 ]
 ---

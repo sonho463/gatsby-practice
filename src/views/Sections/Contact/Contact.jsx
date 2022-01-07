@@ -23,8 +23,8 @@ const Contact = ({ className, frontmatter }) => {
       </Row>
       <Row>
         <Col lg={4} className="ml-auto text-center">
-          <Icon iconName="PhoneIcon" size="3x" className="text-muted mb-3" />
-          <a className="d-block" href={`tel:${telephone}`}>
+          <Icon iconName="TwitterIcon" size="3x" className="text-muted mb-3" />
+          <a className="d-block" href={`${telephone}`}>
             {telephone}
           </a>
         </Col>
